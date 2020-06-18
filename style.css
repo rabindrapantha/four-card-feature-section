@@ -17,10 +17,12 @@ header {
 h1 {
     margin: 0;
     font-weight: 200;
+    color: hsl(234, 12%, 34%);
 }
 
 h1 span {
     font-weight: 600;
+    color: hsl(234, 12%, 34%);
 }
 
 p {
@@ -82,6 +84,7 @@ p {
 
 .box h2 {
     margin: 0;
+    color: hsl(234, 12%, 34%);
 }
 
 .box img {
